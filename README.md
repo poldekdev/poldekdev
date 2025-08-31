@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm **poldek**, a self-taught developer from 🇵🇱.
 <!--
 **poldekdev/poldekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
