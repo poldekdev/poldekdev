@@ -1,32 +1,68 @@
-## Hi there 👋
-I'm **poldek**, a self-taught developer from 🇵🇱.
+<div align="center">
 
+# Hi 👋, I'm poldekdev
 
-## About myself:
-[![wakatime](https://wakatime.com/badge/user/df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd.svg)](https://wakatime.com/@df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd) ![Python](https://img.shields.io/badge/Python-ffde73.svg?logo=python&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-ececec.svg?logo=html5&style=for-the-badge) ![Discord](https://img.shields.io/badge/Discord-ffffff.svg?logo=discord&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=for-the-badge)
+### A passionate developer from Poland
 
-## My projects:
+</div>
 
-## DTMC (https://github.com/poldekdev/dtmc)
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://i.ibb.co/hxZsYHQX/dtmc-banner.png">
-</p>
+| Project | Description | Links |
+|---|---|---|
+| DTMC (Don't Touch My Code) | Don't Touch My Code is a Python obfuscator built for reducing readability for people who don't really know Python (i.e script kiddies) | [GitHub](https://github.com/poldekdev/dtmc) |
 
-Don't Touch My Code is a Python obfuscator built for reducing readability for people who don't really know Python (i.e script kiddies)
+### DTMC (Don't Touch My Code)
 
+<img src="https://i.ibb.co/hxZsYHQX/dtmc-banner.png" alt="DTMC (Don't Touch My Code)" width="500"/>
 
-<!--
-**poldekdev/poldekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies Used:** Python
 
-Here are some ideas to get you started:
+## 📞 Contact & Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+
+- 📫 How to reach me **poldek333@outlook.com**
+- 👨‍💻 All of my projects are available at [poldek.is-a.dev](poldek.is-a.dev)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poldekdev)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/poldekwastaken) [![wakatime](https://wakatime.com/badge/user/df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd.svg)](https://wakatime.com/@df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 💻 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 💻 Framework
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💻 Software
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💻 Other
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+</div>
