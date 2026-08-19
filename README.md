@@ -22,7 +22,7 @@
 
 <div align="left">
 
-- 📫 How to reach me **poldek333@outlook.com**
+- 📫 How to reach me **root@poldekdev.pw**
 - 👨‍💻 All of my projects are available at [poldek.is-a.dev](poldek.is-a.dev)
 
 </div>
