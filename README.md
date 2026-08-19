@@ -1,68 +1,39 @@
 <div align="center">
-
-# Hi 👋, I'm poldekdev
-
-### A passionate developer from Poland
-
+  <h1>👋 I'm Poldek</h1>
 </div>
-
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| DTMC (Don't Touch My Code) | Don't Touch My Code is a Python obfuscator built for reducing readability for people who don't really know Python (i.e script kiddies) | [GitHub](https://github.com/poldekdev/dtmc) |
-
-### DTMC (Don't Touch My Code)
-
-<img src="https://i.ibb.co/hxZsYHQX/dtmc-banner.png" alt="DTMC (Don't Touch My Code)" width="500"/>
-
-**Technologies Used:** Python
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **root@poldekdev.pw**
-- 👨‍💻 All of my projects are available at [poldek.is-a.dev](poldek.is-a.dev)
-
-</div>
-
-## 🌐 Connect with Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poldekdev)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/poldekwastaken) [![wakatime](https://wakatime.com/badge/user/df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd.svg)](https://wakatime.com/@df34ff5a-43a7-4fcf-b1e3-06fc83bb1fcd)
-
+  <h2>About Me</h2>  
 </div>
 
-## 🛠️ Skills & Technologies
+> Hi! I'm **poldekdev** - a hobbyist developer from 🇵🇱.
+> My Skills include:
+- Building **Minecraft Plugins** (based on [Spigot API](https://hub.spigotmc.org/javadocs/spigot/) & [Paper API](https://jd.papermc.io/paper/26.2/))
+- **Discord Bot Development** (in **discord.py** to be exact)
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 💻 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💻 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 💻 Framework
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 💻 Software
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 💻 Other
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+> I mainly work in Java & Python, I put focus on clean code and good documentation & **real** value for End User
 
 <div align="center">
-
+  <h2>My projects</h2>
 </div>
+
+> [!NOTE]
+> These are my **open-source** projects, if you want to see **all of my projects** (including closed-source work),
+> you should check out my website: https://poldekdev.pw
+
+
+| Name | Description | Repo | Status |
+| ---- | ----------- | ---- | ------- |
+| DTMC | Pseudo-obfuscator for Python | https://github.com/poldekdev/DTMC | Abandoned/Archived |
+| TUI-Manager | Easy-to use package installer for Debian | https://github.com/poldekdev/tui-manager | Abandoned/Archived |
+| Paper Utilities (ccUtilities) | A set of utility classes combined into a library for PaperMC API | https://github.com/cytruscodepl/paperutilities | Active |
+
+<div align="center">
+  <h2>Contact</h2>
+</div>
+> [!NOTE]
+> If you need something **fast**, contact me on Discord. I rarely check my email so you're better to use Discord
+
+- **Discord**: poldekdev
+- **Twitter/X**: poldekwastaken
+- **Email**: root@poldekdev.pw / poldek333@outlook.com
