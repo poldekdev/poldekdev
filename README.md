@@ -31,6 +31,7 @@
 <div align="center">
   <h2>Contact</h2>
 </div>
+
 > [!NOTE]
 > If you need something **fast**, contact me on Discord. I rarely check my email so you're better to use Discord
 
